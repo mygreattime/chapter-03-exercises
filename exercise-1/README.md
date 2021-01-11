@@ -10,6 +10,7 @@ In this exercise you'll practice using git to clone and edit repositories, as wi
 4. On your machine, open up this file (`exercise-1/README.md`) in a text editor of your choice.
 
 5. In the `README.md` file, below these instructions, add an ordered list of what you ate for breakfast today.
+
 1. Coffee
 2. Milk
 3. Cheerios
